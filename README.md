@@ -179,7 +179,7 @@ void testCheckDocument_InvalidUrl() throws Exception {
 }
 ```
 
-### Example Test for the Service
+### Example test for the Service
 
 ```java
 @Test
